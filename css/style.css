@@ -34,7 +34,7 @@ main section {
     width: 100%;
 }
 
-main section h2 {
+main section h1 {
     padding: 1rem 1rem;
     color:hsl(223, 47%, 23%);
 }
